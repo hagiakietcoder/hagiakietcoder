@@ -15,7 +15,9 @@ Fullstack Developer with 4+ years of experience building web applications, CMS, 
 - API integration
 - Fullstack web application development
 
-## Featured Projects
+## Featured Projects (90+)
+
+## Domains
 - Real-time Task Management & Meeting App
 - CMS / CRM System
 - AI QA Platform
