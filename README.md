@@ -23,4 +23,3 @@ Fullstack Developer with 4+ years of experience building web applications, CMS, 
 
 ## Contact
 - Email: kietha756746@gmail.com
-- Portfolio: [your portfolio link]
