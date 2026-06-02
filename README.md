@@ -20,6 +20,19 @@ Fullstack Developer with 4+ years of experience building web applications, CMS, 
 - CMS / CRM System
 - AI QA Platform
 - Search Engine Web App
+- Hotel, resort, bungalow website.
+- Affiliate marketing website.
+- Government health website.
+- Business introduction website.
+- Construction materials, paint products website.
+- Construction, construction design, interior design website.
+- Travel, car rental, taxi booking website.
+- Car buying and selling website.
+- Functional food website.
+- Education & training website.
+- E-commerce website / E-commerce platform.
+- Personal blog website / News page.
+- Product / campaign Landing Page website.
 
 ## Contact
 - Email: kietha756746@gmail.com
