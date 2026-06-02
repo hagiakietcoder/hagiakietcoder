@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ha Gia Kiet 👋
 
-<!--
-**hagiakietcoder/hagiakietcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer with 4+ years of experience building web applications, CMS, CRM, dashboards, and business platforms.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Frontend: ReactJS, NextJS, TypeScript, TailwindCSS, Ant Design
+- Backend: Node.js, NestJS, ExpressJS, FastAPI
+- Database: MySQL, SQL Server, MongoDB
+- Others: Docker, Git, WebSocket, JWT, RESTful API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I focus on
+- Clean and maintainable code
+- UI/UX quality
+- Performance optimization
+- API integration
+- Fullstack web application development
+
+## Featured Projects
+- Real-time Task Management & Meeting App
+- CMS / CRM System
+- AI QA Platform
+- Search Engine Web App
+
+## Contact
+- Email: kietha756746@gmail.com
+- Portfolio: [your portfolio link]
